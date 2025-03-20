@@ -13,7 +13,7 @@ function HomePage() {
     <div className="homepage-container">
       {/* Header */}
       <header className="header">
-        <h1 className="header-title">Helena</h1>
+        <h1 className="header-title">Helena's eShop</h1>
         <nav>
           <ul className="nav-list">
             <li><a href="#" className="nav-link">Home</a></li>
